@@ -1,0 +1,18 @@
+# 基础依赖
+streamlit==1.41.1
+pandas>=1.5.0
+requests>=2.28.0
+pydantic>=2.0.0
+
+# 网站爬取
+firecrawl-py==1.9.0
+
+# OpenAI 支持 (可选)
+agno
+
+# Qwen 支持 (可选)
+qwen-agent[gui,rag,code_interpreter,mcp]
+
+# 搜索引擎支持 (可选)
+exa-py==1.7.1
+duckduckgo-search==7.2.1
