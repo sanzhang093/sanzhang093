@@ -2,7 +2,6 @@
 """
 AI 竞争对手智能分析代理团队 - 综合版本
 功能：结合 OpenAI 和 Qwen 模型，提供多种分析选项
-作者：基于 awesome-llm-apps 项目，结合多个版本的优势
 """
 
 import streamlit as st
